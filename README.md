@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A passionate frontend developer from the United States</h3>
 
+
+
+
+ <i>I’m currently working on a **Skincare Comparison** with the following stack:</i>
+-  <i><b>Framework:</b></i> <img align="center" src="https://camo.githubusercontent.com/8d63de8d12345c56bc8869740dab7a5b31b4cff51cc16fa14cbecd2cc2bbeb46/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50726561637426636f6c6f723d363733414238266c6f676f3d507265616374266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+ - <i><b>Frontend:</b></i>  <img align="center" src="https://camo.githubusercontent.com/773cfd323f61dbc7301a98e28c69fbd0f27f491272f4acf48106936ca1d14c47/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5479706553637269707426636f6c6f723d333137384336266c6f676f3d54797065536372697074266c6f676f436f6c6f723d464646464646266c6162656c3d" /> <img align="center" src="https://camo.githubusercontent.com/5c0ce52c634e8c55bdc35797c96bef788da087d899194227f04f44794186b35e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d7374796c65642d636f6d706f6e656e747326636f6c6f723d444237303933266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+  - <i><b>Backend:</b></i> <img align="center" src="https://camo.githubusercontent.com/cfc9f269ec7432e7b5b4f1599e6cb1790fe4f4073a5ea5cd32dbefeac7e796df/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537570616261736526636f6c6f723d323232323232266c6f676f3d5375706162617365266c6f676f436f6c6f723d334643463845266c6162656c3d" /> <img align="center" src="https://camo.githubusercontent.com/d96a01edb67770ddc4a8794895b4e2c1fab10e9fab40060b287bcb3448915a01/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5669746526636f6c6f723d363436434646266c6f676f3d56697465266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+<br></br>
+<i>Some other stuff I've been working on:</i>
+- A VSCode extension to steam Youtube audio (big fan of Low-Fi mixes).
+- An Electron-based kanban/pomodoro tool. Should it be: Pomoban? Kandoro? 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciev&label=Profile%20views&color=0e75b6&style=flat" alt="maciev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maciev" alt="maciev" /></a> </p>
-
-- 🔭 I’m currently working on **Skincare Comparison**
-
-- 🌱 I’m currently learning **Preact, React**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andrew-chatelain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrew-chatelain/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maciev&show_icons=true&locale=en" alt="maciev" /></p>
